@@ -1,8 +1,8 @@
 <h1 align="left">Hi 👋, I'm Matheus Alberto</h1>
 
-
-- 📫 How to reach me: **matheus.a.v.b@gmail.com**
 - 📄 Know about my experiences [at my Resume](https://drive.google.com/file/d/1BCPjNd-4bf09N_PgSglK95u1MohBVawL)
+- ❤️ See more interesting (and fun) things [on my Nexus Mods page](https://next.nexusmods.com/profile/Pentodo/mods)
+- 📫 How to reach me **matheus.a.v.b@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
