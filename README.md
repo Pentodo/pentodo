@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Matheus Alberto</h1>
 
 
-- 📫 How to reach me **matheus.a.v.b@gmail.com**
+- 📫 How to reach me: **matheus.a.v.b@gmail.com**
 - 📄 Know about my experiences [at my Resume](https://drive.google.com/file/d/1BCPjNd-4bf09N_PgSglK95u1MohBVawL)
 
 <h3 align="left">Connect with me:</h3>
