@@ -3,7 +3,7 @@
 - 📄 Know about my experiences [at my Resume](https://drive.google.com/file/d/1BCPjNd-4bf09N_PgSglK95u1MohBVawL)
 - ❤️ See more interesting (and fun) things [on my Nexus Mods page](https://next.nexusmods.com/profile/Pentodo/mods)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Also, connect with me:</h3>
 <p align="left">
 <a href="mailto:matheus.a.v.b@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=MFd4aKzItnZK&format=png&color=000000" alt="matheus.a.v.b@gmail.com" height="40" width="40" /></a>
 <a href="https://discord.gg/pentodo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="pentodo" height="40" width="40" /></a>
