@@ -2,7 +2,7 @@
 
 
 - 📫 How to reach me **matheus.a.v.b@gmail.com**
-- 📄 Know about my experiences [by looking at my Resume](https://drive.google.com/file/d/1BCPjNd-4bf09N_PgSglK95u1MohBVawL)
+- 📄 Know about my experiences [at my Resume](https://drive.google.com/file/d/1BCPjNd-4bf09N_PgSglK95u1MohBVawL)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
