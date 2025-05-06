@@ -6,7 +6,7 @@
 <h3 align="left">Also, connect with me:</h3>
 <p align="left">
 <a href="mailto:matheus.a.v.b@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=MFd4aKzItnZK&format=png&color=000000" alt="matheus.a.v.b@gmail.com" height="40" width="40" /></a>
-<a href="https://discord.gg/pentodo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="pentodo" height="40" width="40" /></a>
+<a href="https://discord.gg/pentodo" target="blank"><img align="center" src="https://img.icons8.com/?size=40&id=SAZw8WuWnQea&format=png&color=000000" alt="pentodo" /></a>
 <a href="https://linkedin.com/in/matheus-avb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matheus-avb" height="30" width="40" /></a>
 </p>
 
