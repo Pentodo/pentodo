@@ -7,7 +7,7 @@
 <p align="left">
   <a href="mailto:matheus.a.v.b@gmail.com" target="blank"><img src="https://img.icons8.com/?size=40&id=MFd4aKzItnZK&format=png&color=000000" alt="matheus.a.v.b@gmail.com" /></a>
   <a href="https://discord.gg/pentodo" target="blank"><img src="https://img.icons8.com/?size=40&id=SAZw8WuWnQea&format=png&color=000000" alt="pentodo" /></a>
-  <a href="https://linkedin.com/in/matheus-avb" target="blank"><img src="https://img.icons8.com/?size=40&id=102748&format=png&color=0072b1" alt="matheus-avb" /></a>
+  <a href="https://linkedin.com/in/matheus-avb" target="blank"><img src="https://img.icons8.com/?size=40&id=102748&format=png&color=0965C1" alt="matheus-avb" /></a>
 </p>
 
 <h3 align="left">Some experienced Languages and Tools</h3>
