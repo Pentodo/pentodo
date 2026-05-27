@@ -23,4 +23,4 @@
   <a href="https://nestjs.com" target="_blank"><img src="https://img.icons8.com/color/600/nestjs.png" alt="nestjs" width="40" height="40"/></a>
 </p>
 
-![Top Languages](./profile/top-langs.svg)
+![top languages](./profile/top-langs.svg)
