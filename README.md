@@ -26,5 +26,3 @@
 <p>
   <img align="center" src="https://github-readme-stats-6w4qahwpo-pentodo-s-projects.vercel.app/api/top-langs?username=pentodo&show_icons=true&locale=en&layout=compact" alt="top languages" />
 </p>
-
-![Top Langs](https://github-readme-stats-6w4qahwpo-pentodo-s-projects.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5&layout=compact)
