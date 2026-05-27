@@ -23,4 +23,4 @@
   <a href="https://nestjs.com" target="_blank"><img src="https://img.icons8.com/color/600/nestjs.png" alt="nestjs" width="40" height="40"/></a>
 </p>
 
-<img src="https://github-readme-stats-6w4qahwpo-pentodo-s-projects.vercel.app/api/top-langs?username=pentodo&layout=compact" alt="top languages" />
+![Top Languages](./profile/top-langs.svg)
